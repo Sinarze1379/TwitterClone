@@ -1,4 +1,4 @@
-const URL = "http://localhost:5000";
+const URL = "http://localhost:4000";
 
 // PROFILE ENDPOINTS //
 // ------------------//
